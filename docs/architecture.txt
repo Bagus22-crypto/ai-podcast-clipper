@@ -1,0 +1,22 @@
+AI PODCAST AUTO CLIPPER - SYSTEM ARCHITECTURE
+
+1. INPUT LAYER
+   - Upload video podcast (MP4, MOV, etc.)
+   - Or provide YouTube URL
+
+2. PROCESSING PIPELINE
+   [Video File] → MoviePy → [Audio File]
+   [Audio File] → Whisper AI → [Text + Timestamps]
+   [Text] → BERTopic → [Topics + Segments]
+   [Segments + Video] → FFmpeg → [Short Clips]
+
+3. OUTPUT LAYER
+   - Short video clips (MP4)
+   - Metadata (JSON)
+   - Optional: Upload to social media
+
+4. USER INTERFACE
+   - Web-based (Streamlit)
+   - Drag & drop upload
+   - Parameter configuration
+   - Preview before processing
