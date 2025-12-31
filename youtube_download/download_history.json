@@ -50,5 +50,50 @@
     "url": "https://www.youtube.com/watch?v=1ziIpehWMiI",
     "format": "95",
     "status": "completed"
+  },
+  {
+    "timestamp": "2025-12-31T10:01:10.014371",
+    "title": "Dari Rugi 500jt ke 1 Triliun: Rahasia Multibagger Saham Andry Hakim (Bocoran Saham 2026)",
+    "url": "https://www.youtube.com/watch?v=1ziIpehWMiI",
+    "format": "95",
+    "status": "completed"
+  },
+  {
+    "timestamp": "2025-12-31T10:01:10.195939",
+    "title": "Rahasia Fokus: Kunci Sukses di Era Digital",
+    "url": "https://www.youtube.com/watch?v=MfON_LrU5nI",
+    "format": "95",
+    "status": "completed"
+  },
+  {
+    "timestamp": "2025-12-31T10:01:10.227266",
+    "title": "Margin Call: Analisa Market 2026",
+    "url": "https://www.youtube.com/watch?v=0YaMKRlB-4w",
+    "format": "300",
+    "status": "completed"
+  },
+  {
+    "timestamp": "2025-12-31T10:04:27.257716",
+    "title": "Margin Call: Analisa Market 2026",
+    "url": "https://www.youtube.com/watch?v=0YaMKRlB-4w",
+    "format": "300",
+    "status": "completed"
+  },
+  {
+    "timestamp": "2025-12-31T10:21:16.745500",
+    "title": "Margin Call: Analisa Market 2026",
+    "url": "https://www.youtube.com/watch?v=0YaMKRlB-4w",
+    "status": "completed"
+  },
+  {
+    "timestamp": "2025-12-31T11:51:47.798508",
+    "title": "Margin Call: Analisa Market 2026",
+    "channel": "Timothy Ronald",
+    "url": "https://www.youtube.com/watch?v=0YaMKRlB-4w",
+    "duration": 2173,
+    "status": "completed",
+    "file_size_mb": 207.4,
+    "download_time_seconds": 75.0,
+    "format": "best[height<=1080]"
   }
 ]

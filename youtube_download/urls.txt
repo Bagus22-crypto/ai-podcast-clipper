@@ -2,8 +2,6 @@
 # Format: satu URL per line
 
 # Video reguler
-https://youtu.be/1ziIpehWMiI?si=35ti6y2WtjU3o2HT
-https://youtu.be/MfON_LrU5nI?si=dq1rCqeAiV_OSsdd
 
 # Live stream (mungkin bermasalah)
 https://www.youtube.com/live/0YaMKRlB-4w?si=nUan3VHV4X5sDgDX
