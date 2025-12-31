@@ -1,0 +1,21 @@
+{
+  "base_path": "C:\\Users\\BAGUS\\ai-podcast-clipper\\youtube_download",
+  "download_path": "C:\\Users\\BAGUS\\ai-podcast-clipper\\youtube_download\\downloads",
+  "max_concurrent_downloads": 3,
+  "default_format": "best[height<=1080]",
+  "download_subtitles": true,
+  "subtitles_langs": ["ind"],
+  "embed_metadata": true,
+  "embed_thumbnail": true,
+  "resume_downloads": true,
+  "timeout": 45,
+  "max_retries": 3,
+  "retry_count": 2,
+  "move_to_completed": false,
+  "debug_mode": false,
+  "limit_rate": null,
+  "auto_convert_audio": "mp3",
+  "ignore_errors": true,
+  "ignore_no_formats_error": true,
+  "validate_urls": true
+}
